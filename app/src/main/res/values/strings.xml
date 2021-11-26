@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="welcome_2_tic_tac_toe">Welcome 2 Tic Tac Toe</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="x_s_turn_tap_2_play">X\'s turn - Tap 2 Play</string>
+    <string name="reset">RESET</string>
+</resources>
